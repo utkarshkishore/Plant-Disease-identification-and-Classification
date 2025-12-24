@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+Dataset/
+test_images/
+Plant_leaf_diseases_dataset_with_augmentation.zip
+plant_disease_model_1.pt
+plant_disease_model_1_latest.pt
+ddddddd/
+*.pt
